@@ -1,0 +1,23 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhang-xiao-0374/EXPRESS_MESSAGE.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhang-xiao-0374/EXPRESS_MESSAGE/issues"
+  },
+  "homepage": "https://github.com/zhang-xiao-0374/EXPRESS_MESSAGE#readme",
+  "dependencies": {
+    "config": "^3.3.3",
+    "express": "^4.17.1"
+  }
+}
